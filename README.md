@@ -18,8 +18,9 @@ Be prepared to discuss the reasoning behind specific design choices. We expect t
 
 ## Instructions for Running
 
-`foo` can be run interactively or integrated into other software packages. The python notebook, `Interactive.ipynb`, shows example
-of real-time usage, while `incorporated.py` shows usage within a larger program. A simple program is shown below
+`foo` is flexible enough to run in many use cases. The module can be run [interactively, like in a python notebook](Interactive.ipynb), or [incorporated into a larger, standalone project](incorporated.py).
+
+A simple program is shown below
 
 ```python
 from foo.parameterization import Foo22
